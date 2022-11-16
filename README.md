@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mechieboy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Undergraduate in Mechanical Engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Undergraduate in Mechanical Engineering at Chennai Institute of Technology.
 - 📫 How to reach me 9600874789
 
 <!---
